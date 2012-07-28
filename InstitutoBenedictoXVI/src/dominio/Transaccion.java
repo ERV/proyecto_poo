@@ -16,4 +16,6 @@ public class Transaccion {
 	private LocalDate fechaPago;
 	private dominio.Venta.Estado estado;
 	private String observaciones;	
+	
+	
 }
